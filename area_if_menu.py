@@ -1,10 +1,10 @@
-def rectangle(w, h): #dynamic typing
-    #code block
+def rectangle(w, h): # dynamic typing
+    # code block
     area = w * h
     return area
 
 def triangle(w, h):
-    # area = .5 * w * 5
+    # area = .5 * w * h
     return .5 * w * h
 
 
